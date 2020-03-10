@@ -76,5 +76,13 @@ public class PlaceComponents {
             }
         });
         panel.add(saveToFile);
+
+        // Exit button.
+        JButton exitFromApplication = new JButton("EXIT");
+        exitFromApplication.setFont(new Font("Monospaced", Font.BOLD, 15));
+        exitFromApplication.setBounds(310, 490, 100, 50);
+        exitFromApplication.addActionListener(actionEvent -> System.exit(0));
+        panel.add(exitFromApplication);
+
     }
 }
