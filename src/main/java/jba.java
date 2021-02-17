@@ -5,7 +5,7 @@ public class jba {
     public static void main(String[] args) {
         layout.setHeight(600);
         layout.setWidth(700);
-        layout.setTitle("JetBrains Active");
+        layout.setTitle("JetBrains Active Code");
         layout.initLayout();
     }
 }

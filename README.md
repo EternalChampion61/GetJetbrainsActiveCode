@@ -1,4 +1,3 @@
 # Get Jetbrains Active Code From Here!
-This application helps you to get Jetbrains Active Code for free.
 
-**YOU HAVE TO GET THE ACTIVE CODE EVERY MONTH!!!**
+免费获得Jetbrains系列产品激活码

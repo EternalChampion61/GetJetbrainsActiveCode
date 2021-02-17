@@ -8,11 +8,10 @@ import java.net.URL;
 public class Processor {
 
     /**
-     * This function will return the content of API.
+     * This function will return the content from API.
      * @return String: Content of API.
      */
-    public String GetContentOfAPI() {
-        // Now, the program will get all the text from this api. :-)
+    public String GetContentFromAPI() {
         URL API;
         BufferedReader bufferedReader = null;
         StringBuilder stringBuffer = new StringBuilder();
